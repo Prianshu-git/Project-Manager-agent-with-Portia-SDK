@@ -1,7 +1,14 @@
-# PM Agentic AI System
+# Project Manager Agentic AI System
 
 ## Project Overview
-The PM Agentic AI System is designed to streamline product management workflows using the Portia SDK. This system integrates various tools and APIs to facilitate real-time feedback, feature selection, and project management, ensuring a human-in-the-loop approach at every step.
+This project is my implementation of the Portia SDK to design a full-fledged Product Management Workflow — built both as an internal tool and a prompt-driven AI Project Manager.
+The system integrates with Slack, Notion, GitHub, and Google Calendar to create a smooth, end-to-end product management pipeline:
+Capture user feedback, feature requests, and bug reports.
+Allow the PM (or user) to choose which feature to prioritize.
+Use Portia plan + build modules to generate a structured execution plan.
+Provide human-in-the-loop approvals for plan editing, selection/deselection of steps, and refinement.
+Auto-generate a PRD document, Slack updates, stakeholder messages, and GitHub issue templates.
+Push finalized artifacts to Notion, GitHub, and Slack — with Google Calendar reminders for reviews.
 
 ## Features
 - **Portia SDK Integration**: Leverages the capabilities of the Portia SDK for generating comprehensive product development plans.
@@ -55,22 +62,43 @@ The PM Agentic AI System is designed to streamline product management workflows 
    GOOGLE_CALENDAR_TOKEN_PATH=path/to/token.json
    ```
 
-5. **Run the Application**:
+5. **Run the Application as an Internal Tool**:
    Start the application using the main entry point:
    ```bash
    python main.py
    ```
 
+6. **Run the Application as a Prompt Based Tool**:
+   Start the application using the main entry point:
+   ```bash
+   python pm_agent_workflow.py
+   ```      
+
+
 ## Technical Details
 
 ### Tools and Technologies
-- **Portia SDK**: Used for generating product development plans based on user feedback and feature requests.
+- **Portia SDK**: Used for generating and executing product development plans based on user feedback and feature requests.
 - **Slack SDK**: Facilitates communication and notifications within Slack channels.
 - **Notion API**: Used to upload the Product Requirements Document (PRD) for easy access and collaboration.
 - **GitHub API**: Creates issues in the repository to track feature requests and development tasks.
 - **Google Calendar API**: Schedules review meetings with stakeholders.
+- 
 
-### Workflow Steps
+### Key Features
+
+- Portia SDK Orchestration
+- Automates planning, PRD generation,Github Issue generation and execution flows.
+- Human-in-the-Loop Workflow
+- Nothing is “auto-finalized” — every step requires PM approval.
+- Multi-Tool Integration
+- Slack (communication), Notion (documentation), GitHub (execution), Google Calendar (reviews).
+- Feedback-Driven Prioritization
+- Reads from designated Slack channels to extract feature/bug reports and prompts the user for action.
+
+
+### Workflow Steps for Internal tool
+
 1. **Feature Selection**: 
    - Users select features from the feedback analysis loaded from `feedback_analysis.json`.
    - The UI displays available features and allows users to choose one to continue the workflow.
@@ -90,10 +118,15 @@ The PM Agentic AI System is designed to streamline product management workflows 
    - A GitHub issue is created based on the approved PRD to track the implementation of the feature.
 
 6. **Slack Notifications**:
-   - Notifications are sent to the Slack channel `all-lystai` with links to the GitHub issue and the Notion document.
+   - Notifications are sent to the respective Slack channels `general` & `stakeholder`  with links to the GitHub issue and the Notion document.
 
 7. **Google Calendar Scheduling**:
    - A review meeting is scheduled on Google Calendar to discuss the implementation and gather further feedback.
+
+## Architecture
+
+<img width="2742" height="3840" alt="Untitled diagram | Mermaid Chart-2025-08-25-175654" src="https://github.com/user-attachments/assets/8ad348d2-8a2c-40af-b7f3-7a838876f433" />
+
 
 ## Integration Details
 
@@ -110,9 +143,7 @@ The PM Agentic AI System is designed to streamline product management workflows 
 ### Google Calendar Integration
 - Review meetings are scheduled to ensure timely discussions and feedback collection.
 
-## Conclusion
-The PM Agentic AI System is a powerful tool for product managers, providing a seamless integration of AI capabilities with human oversight to drive effective decision-making and project execution.
 
----
+The PM Agentic AI System is built as a part of AgentHack by WeMakedevs and Portiailabs to showcase a powerful tool for product managers,by leveraging the features of Portia-sdk v0.7.2 to provide seamless integration with different Project Management tools and human in the loop oversight to drive effective decision-making and project execution.
 
-This README provides a comprehensive overview of the project, installation instructions, and technical details. If you need any modifications or additional sections, please let me know!
+
