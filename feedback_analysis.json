@@ -1,0 +1,202 @@
+{
+  "feedback_count": 9,
+  "sentiment_analysis": {
+    "total_feedback": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9
+    },
+    "overall_sentiment": "neutral",
+    "feedback_items": [
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Dark Mode Please\n\nStill no dark mode on <http://Lyst.ai|Lyst.ai>? It\u2019s honestly ridiculous in 2025. Staring at a blinding white screen all day makes the app painful to use. Every modern tool has it \u2014 not having dark mode feels lazy and outdated.",
+        "timestamp": "1756042515.686779",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Dark Mode Please\n\nStill no dark mode on <http://Lyst.ai|Lyst.ai>? It\u2019s honestly ridiculous in 2025. Staring at a blinding white screen all day makes the app painful to use. Every modern tool has it \u2014 not having dark mode feels lazy and outdated.",
+          "timestamp": "1756042515.686779",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Better Filtering & Bulk Editing Needed\n\n<http://Lyst.ai|Lyst.ai> really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+        "timestamp": "1756042486.862099",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Better Filtering & Bulk Editing Needed\n\n<http://Lyst.ai|Lyst.ai> really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+          "timestamp": "1756042486.862099",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Still no dark mode on Lyst ai ? It\u2019s honestly ridiculous in 2025. Staring at a blinding white screen all day makes the app painful to use. Every modern tool has it \u2014 not having dark mode feels lazy and outdated.",
+        "timestamp": "1756041794.684329",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Still no dark mode on Lyst ai ? It\u2019s honestly ridiculous in 2025. Staring at a blinding white screen all day makes the app painful to use. Every modern tool has it \u2014 not having dark mode feels lazy and outdated.",
+          "timestamp": "1756041794.684329",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Lyst ai  really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+        "timestamp": "1756041743.958109",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Lyst ai  really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+          "timestamp": "1756041743.958109",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09CDJ67P0Q",
+        "text": "<@U09CDJ67P0Q> has joined the channel",
+        "timestamp": "1756033947.177319",
+        "raw_message": {
+          "user": "U09CDJ67P0Q",
+          "text": "<@U09CDJ67P0Q> has joined the channel",
+          "timestamp": "1756033947.177319",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Slack Notifications for Alerts\n&gt; Hello,\n&gt; Could you add *Slack integration* so we get real-time alerts when a company\u2019s financials deviate from expected context ranges? Email is too slow for trading decisions.\n",
+        "timestamp": "1756027982.741989",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Slack Notifications for Alerts\n&gt; Hello,\n&gt; Could you add *Slack integration* so we get real-time alerts when a company\u2019s financials deviate from expected context ranges? Email is too slow for trading decisions.\n",
+          "timestamp": "1756027982.741989",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "*Increase processing limits*\n\nTried running a multi-quarter financial analysis on a portfolio of 120 companies. The context engine keeps timing out after ~3 minutes. Is there a way to *increase processing limits* or batch the analysis?",
+        "timestamp": "1756027956.426009",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "*Increase processing limits*\n\nTried running a multi-quarter financial analysis on a portfolio of 120 companies. The context engine keeps timing out after ~3 minutes. Is there a way to *increase processing limits* or batch the analysis?",
+          "timestamp": "1756027956.426009",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "Deeper Excel Integration Needed\n&gt; Hey <http://Lyst.ai|Lyst.ai> team,\n&gt; Loving the contextual breakdowns so far. One thing we\u2019d find game-changing is a *native Excel plugin* \u2014 right now we export CSVs, but if analysts could pull contextual insights directly inside Excel sheets, it\u2019d save hours.\n",
+        "timestamp": "1756027939.202149",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "Deeper Excel Integration Needed\n&gt; Hey <http://Lyst.ai|Lyst.ai> team,\n&gt; Loving the contextual breakdowns so far. One thing we\u2019d find game-changing is a *native Excel plugin* \u2014 right now we export CSVs, but if analysts could pull contextual insights directly inside Excel sheets, it\u2019d save hours.\n",
+          "timestamp": "1756027939.202149",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      },
+      {
+        "source": "slack",
+        "channel": "feedback-and-issues",
+        "user": "U09BJR8DRBP",
+        "text": "<@U09BJR8DRBP> has joined the channel",
+        "timestamp": "1756027752.904419",
+        "raw_message": {
+          "user": "U09BJR8DRBP",
+          "text": "<@U09BJR8DRBP> has joined the channel",
+          "timestamp": "1756027752.904419",
+          "type": "feature_request"
+        },
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  "feature_requests": [
+    {
+      "source": "slack",
+      "channel": "feedback-and-issues",
+      "user": "U09BJR8DRBP",
+      "text": "Better Filtering & Bulk Editing Needed\n\n<http://Lyst.ai|Lyst.ai> really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+      "timestamp": "1756042486.862099",
+      "raw_message": {
+        "user": "U09BJR8DRBP",
+        "text": "Better Filtering & Bulk Editing Needed\n\n<http://Lyst.ai|Lyst.ai> really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+        "timestamp": "1756042486.862099",
+        "type": "feature_request"
+      },
+      "sentiment": "neutral",
+      "impact_score": 0.37
+    },
+    {
+      "source": "slack",
+      "channel": "feedback-and-issues",
+      "user": "U09BJR8DRBP",
+      "text": "Lyst ai  really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+      "timestamp": "1756041743.958109",
+      "raw_message": {
+        "user": "U09BJR8DRBP",
+        "text": "Lyst ai  really needs better filtering and bulk editing. Right now, dealing with large lists is painful \u2014 I waste hours deleting junk one by one. It\u2019s clunky, slow, and honestly kills the point of using the tool. Without fixes, it feels unusable at scale.",
+        "timestamp": "1756041743.958109",
+        "type": "feature_request"
+      },
+      "sentiment": "neutral",
+      "impact_score": 0.37
+    },
+    {
+      "source": "slack",
+      "channel": "feedback-and-issues",
+      "user": "U09BJR8DRBP",
+      "text": "Slack Notifications for Alerts\n&gt; Hello,\n&gt; Could you add *Slack integration* so we get real-time alerts when a company\u2019s financials deviate from expected context ranges? Email is too slow for trading decisions.\n",
+      "timestamp": "1756027982.741989",
+      "raw_message": {
+        "user": "U09BJR8DRBP",
+        "text": "Slack Notifications for Alerts\n&gt; Hello,\n&gt; Could you add *Slack integration* so we get real-time alerts when a company\u2019s financials deviate from expected context ranges? Email is too slow for trading decisions.\n",
+        "timestamp": "1756027982.741989",
+        "type": "feature_request"
+      },
+      "sentiment": "neutral",
+      "impact_score": 0.37
+    },
+    {
+      "source": "slack",
+      "channel": "feedback-and-issues",
+      "user": "U09BJR8DRBP",
+      "text": "Deeper Excel Integration Needed\n&gt; Hey <http://Lyst.ai|Lyst.ai> team,\n&gt; Loving the contextual breakdowns so far. One thing we\u2019d find game-changing is a *native Excel plugin* \u2014 right now we export CSVs, but if analysts could pull contextual insights directly inside Excel sheets, it\u2019d save hours.\n",
+      "timestamp": "1756027939.202149",
+      "raw_message": {
+        "user": "U09BJR8DRBP",
+        "text": "Deeper Excel Integration Needed\n&gt; Hey <http://Lyst.ai|Lyst.ai> team,\n&gt; Loving the contextual breakdowns so far. One thing we\u2019d find game-changing is a *native Excel plugin* \u2014 right now we export CSVs, but if analysts could pull contextual insights directly inside Excel sheets, it\u2019d save hours.\n",
+        "timestamp": "1756027939.202149",
+        "type": "feature_request"
+      },
+      "sentiment": "neutral",
+      "impact_score": 0.37
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+portia-sdk-python>=0.7.1
+slack-sdk>=3.36.0
+pydantic>=2.11.7
+python-dotenv>=1.1.1
+requests>=2.31.0
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+notion-client>=2.0.0
+PyGithub>=2.0.0
