@@ -1,5 +1,9 @@
 # Project Manager Agentic AI System
 
+<div align="center">
+<img width="2048" height="2048" alt="Gemini_Generated_Image_dij2ffdij2ffdij2" src="https://github.com/user-attachments/assets/54222360-0b55-48b9-b5ff-68ea58419d74" />
+</div>
+
 ## Project Overview
 This project is my implementation of the Portia SDK to design a full-fledged Product Management Workflow — built both as an internal tool and a prompt-driven AI Project Manager.
 The system integrates with Slack, Notion, GitHub, and Google Calendar to create a smooth, end-to-end product management pipeline:
@@ -150,6 +154,8 @@ Push finalized artifacts to Notion, GitHub, and Slack — with Google Calendar r
 <img width="854" height="384" alt="Screenshot 2025-08-25 at 8 24 44 PM" src="https://github.com/user-attachments/assets/3a15a78b-08c0-4de4-a0de-2d046146f3fb" />
 <img width="1158" height="754" alt="Screenshot 2025-08-25 at 8 40 48 PM" src="https://github.com/user-attachments/assets/0da5901f-f5d7-4380-92db-81d13bd20f88" />
 <img width="1161" height="792" alt="Screenshot 2025-08-25 at 8 37 40 PM" src="https://github.com/user-attachments/assets/962ed0ba-1878-40f8-83f5-832418574b98" />
+<img width="1314" height="783" alt="Screenshot 2025-08-25 at 11 52 46 PM" src="https://github.com/user-attachments/assets/65ea5e50-eca6-4957-9434-63961474e48f" />
+<img width="802" height="462" alt="Screenshot 2025-08-25 at 11 52 22 PM" src="https://github.com/user-attachments/assets/6a753e4d-0061-4fac-ae34-d2fd7b3036ba" />
 
 
 The PM Agentic AI System is built as a part of AgentHack by WeMakedevs and Portiailabs to showcase a powerful tool for product managers,by leveraging the features of Portia-sdk v0.7.2 to provide seamless integration with different Project Management tools and human in the loop oversight to drive effective decision-making and project execution.
