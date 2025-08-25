@@ -143,7 +143,15 @@ Push finalized artifacts to Notion, GitHub, and Slack — with Google Calendar r
 ### Google Calendar Integration
 - Review meetings are scheduled to ensure timely discussions and feedback collection.
 
+### Working Proof
+
+<img width="1109" height="722" alt="Screenshot 2025-08-25 at 10 25 37 PM" src="https://github.com/user-attachments/assets/9477ea59-9dad-4c81-916f-f5b9dfb6571c" />
+<img width="859" height="394" alt="Screenshot 2025-08-25 at 8 25 22 PM" src="https://github.com/user-attachments/assets/8b018a34-abdc-49dc-95f7-fd7181ac2137" />
+<img width="854" height="384" alt="Screenshot 2025-08-25 at 8 24 44 PM" src="https://github.com/user-attachments/assets/3a15a78b-08c0-4de4-a0de-2d046146f3fb" />
+<img width="1158" height="754" alt="Screenshot 2025-08-25 at 8 40 48 PM" src="https://github.com/user-attachments/assets/0da5901f-f5d7-4380-92db-81d13bd20f88" />
+<img width="1161" height="792" alt="Screenshot 2025-08-25 at 8 37 40 PM" src="https://github.com/user-attachments/assets/962ed0ba-1878-40f8-83f5-832418574b98" />
+
 
 The PM Agentic AI System is built as a part of AgentHack by WeMakedevs and Portiailabs to showcase a powerful tool for product managers,by leveraging the features of Portia-sdk v0.7.2 to provide seamless integration with different Project Management tools and human in the loop oversight to drive effective decision-making and project execution.
 
-
+Youtube Link- https://youtu.be/oaoOMTh1uUM
