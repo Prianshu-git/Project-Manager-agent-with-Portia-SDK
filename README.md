@@ -160,4 +160,10 @@ Push finalized artifacts to Notion, GitHub, and Slack — with Google Calendar r
 
 The PM Agentic AI System is built as a part of AgentHack by WeMakedevs and Portiailabs to showcase a powerful tool for product managers,by leveraging the features of Portia-sdk v0.7.2 to provide seamless integration with different Project Management tools and human in the loop oversight to drive effective decision-making and project execution.
 
+## Comments
+
+Plan Builder tends to fail unexpectedly,tried everything including plan_builder_v2 but the StepsError is consistent and out of reach
+There might be some issue with Google ai api langchain handling in  Portia sdk
+
+
 Youtube Link- https://youtu.be/oaoOMTh1uUM
