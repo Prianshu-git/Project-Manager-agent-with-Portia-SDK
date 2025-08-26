@@ -162,8 +162,10 @@ The PM Agentic AI System is built as a part of AgentHack by WeMakedevs and Porti
 
 ## Comments
 
-Plan Builder tends to fail unexpectedly,tried everything including plan_builder_v2 but the StepsError is consistent and out of reach
-There might be some issue with Google ai api langchain handling in  Portia sdk
+->Plan Builder tends to fail unexpectedly,tried everything including plan_builder_v2 but the StepsError is consistent and out of reach
+->There might be some issue with Google ai api langchain handling in  Portia sdk
+->The project is structured in a way which allows adding more validations and user check through the workflow(suggested contribution can be addding checks and editor for tailoring the final doc,issue or message that gets pushed)
+->A replit like UI would best suit the project workflow
 
 
 Youtube Link- https://youtu.be/oaoOMTh1uUM
